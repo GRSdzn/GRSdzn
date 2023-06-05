@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-div className=flex
-              AiFillBook 
-              h2 className=text-secondary font-bold text-[60px] mb-12 bg-backgroundAll mdtext-centerКонтактыh2
-            div
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=GRSdzn)](https://github.com/GRSdzn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRSdzn&layout=compact)](https://github.com/GRSdzn)
