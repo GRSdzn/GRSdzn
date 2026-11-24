@@ -34,3 +34,5 @@
 <img src="https://raw.githubusercontent.com/GRSdzn/GRSdzn/output/snake.svg" alt="Snake animation" />
 
 ###
+<h1 align="center">Счётчик посетителей:</h1>
+<p align="center"><img src="https://count.getloli.com/@GitHub_GRSdzn?name=GitHub_GRSdzn&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Счётчик посетителей"/></p>
